@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @Erik-Martinez
-- 👀 I’m interested in videogmes and technology.
-- 🌱 I’m currently learning python and Inglis, also i am finishing the degree in sociology at the UDC (Spain)
+- 👀 I’m interested in technology and data analysis.
+- :books: Graduate in sociology(UDC) and knowledge in pytjon
+- 🌱 I’m studying "master en tecnicas estadisticas" (UDC) and learning English.
 - 📫 How to reach me 'desconocidoerik@gmail.com
 
 - 👋 Hola soy @Erik-Martinez
-- 👀 Estoy interesado en vidoejuegos y tecnología.
-- 🌱 Estoy aprendiendo a progrmar en python y estudiando Ingles (aun con no muy buenos resultados, también estoy terminando la carrerra en sociología en la UDC (España)
+- 👀 Estoy interesado en tecnología y analisis de datos.
+- :books: Graduado en sociología y con conocimientos en python.
+- 🌱 Estoy estudiando  el master en tecnicas estadísticas (UDC) y aprendiendo Ingles por mi cuenta (aun con no muy buenos resultados).
 - 📫 Puedes contactar conmigo en "desconocidoerik@gmail.com
 
 <!---
